@@ -7,7 +7,7 @@ interface Props extends PanelProps<SimpleOptions> {}
 export const SimpleTable: React.FC<Props> = ({ options, data, width, height }) => {
     return (
         <h1>
-            Hello world!
+            Hello world! I'm here
         </h1>
     )
 }
